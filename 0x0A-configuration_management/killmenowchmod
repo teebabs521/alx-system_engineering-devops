@@ -1,0 +1,1 @@
+-e "#!/bin/bash\nwhile [[ true ]]; do sleep 2; done"  +x killmenow./killmenow 
