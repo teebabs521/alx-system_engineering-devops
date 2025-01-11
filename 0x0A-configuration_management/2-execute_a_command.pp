@@ -4,3 +4,4 @@ exec { 'kill_killmenow_process':
   onlyif  => '/usr/bin/pgrep killmenow', # Ensures the command runs only if the process exists
 }
 
+
