@@ -51,3 +51,6 @@ Corrective and Preventative Measures
         Perform load testing for traffic spikes.
 
         Document incident and share learnings.
+
+![Postmortem Diagram](postmorterm_technical.webp)
+![Postmortem Diagram](postmoterm_flow_chart.webp)
